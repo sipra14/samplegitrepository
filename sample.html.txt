@@ -1,0 +1,9 @@
+<html>
+	<head>
+		<title>Success</title>
+	</head>
+	<body>
+		<p>Searching for success shouldn’t be an easy task. Success is not a gift, it should be hard to achieve and it matters how it is accomplished. That’s why I strongly disagree with this statement. "It is irrelevant how you achieve success". 
+                In my opinion, I believe success is accomplished by having desire, devotion, and with a tremendous amount of dedication. </p>
+	</body>
+</html>
